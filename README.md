@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Front End Developer
 - 🌱 I’m currently learning HTML, CSS And Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/seansew/)
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/seansew/)
 
 <!---
 ExpressOwl/ExpressOwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
