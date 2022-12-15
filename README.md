@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Sean Sew, or just @ExpressOwl, 
+- 👋 Hi, my name is Sean, or just @ExpressOwl, 
 - 👀 I’m interested in becoming a Front End Developer
 - 🌱 I’m currently learning HTML, CSS and Javascript. 
 - 🔮 I'm planning on learning ReactJS along with Typescript in the future
