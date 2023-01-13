@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Sean, or just @ExpressOwl, 
 - 👀 I’m interested in becoming a Front End Developer
-- 🌱 I’m currently learning HTML, CSS and Javascript. 
-- 🔮 I'm planning on learning ReactJS along with Typescript in the future
+- 🌱 I’m currently learning HTML, CSS, Javascript and TailwindCSS. 
+- 🔮 I'm planning on learning ReactJS in the future
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/seansew/)
 
 <!---
